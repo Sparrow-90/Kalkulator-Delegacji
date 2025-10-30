@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Kalkulator Delegacji",
+  "description": "Prosta aplikacja do obliczania kosztów delegacji pracowniczej na podstawie daty i godziny wyjazdu oraz powrotu. Stawka wynosi 45 zł za każde 12 godzin.",
+  "requestFramePermissions": []
+}
